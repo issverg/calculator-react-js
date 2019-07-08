@@ -1,0 +1,15 @@
+.clearBtn {
+    height: 3em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.4em;
+    background-color: #FFF;
+    color: #565555;
+    flex: 3;
+    outline: 2px solid #BD6F7E;
+}
+
+.clearBtn:active {
+    background-color: #C9C9C9;
+}
